@@ -12,10 +12,9 @@
   "app_exists": {
     "id": "com.saxvideo.saxvideocall.random.chatwithstrangers.livevideochat",
     "is_exists": true,
-    "is_show_more": true,
+    "is_show_more": false,
     "isLoading":false,
-    "isShowAds":false,
-    "isShowVideo":false
+    "isShowAds":true
   },
   "apps": [
     {
