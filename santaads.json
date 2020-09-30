@@ -2,10 +2,10 @@
   "ads": {
     "id_app": "",
     "flury_id":"",
-    "banner_setting": "",
-    "inter_setting": "",
-    "banner_main": "",
-    "inter_main": "",
+    "banner_setting": "ca-app-pub-3399710561924220/1062584511",
+    "inter_setting": "ca-app-pub-3399710561924220/6123339506",
+    "banner_main": "ca-app-pub-3399710561924220/1992522809",
+    "inter_main": "ca-app-pub-3399710561924220/3114032788",
     "onlyAdmod": true,
     "onlyFB": false
   }, 
